@@ -1,0 +1,156 @@
+c:\users\admin\documents\visual studio 2010\Projects\NEW\NEW\bin\Debug\Main.mdf
+c:\users\admin\documents\visual studio 2010\Projects\NEW\NEW\bin\Debug\Main_log.ldf
+c:\users\admin\documents\visual studio 2010\Projects\NEW\NEW\bin\Debug\NEW.exe
+c:\users\admin\documents\visual studio 2010\Projects\NEW\NEW\bin\Debug\NEW.pdb
+c:\users\admin\documents\visual studio 2010\Projects\NEW\NEW\obj\x86\Debug\NEW.Form1.resources
+c:\users\admin\documents\visual studio 2010\Projects\NEW\NEW\obj\x86\Debug\NEW.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\NEW\NEW\obj\x86\Debug\NEW.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\NEW\NEW\obj\x86\Debug\NEW.exe
+c:\users\admin\documents\visual studio 2010\Projects\NEW\NEW\obj\x86\Debug\NEW.pdb
+c:\users\admin\documents\visual studio 2010\Projects\NEW\NEW\obj\x86\Debug\NEW.Form2.resources
+c:\users\admin\documents\visual studio 2010\Projects\NEW\NEW\obj\x86\Debug\NEW.mainmenu.resources
+c:\users\admin\documents\visual studio 2010\Projects\NEW\NEW\obj\x86\Debug\NEW.Form4.resources
+c:\users\admin\documents\visual studio 2010\Projects\NEW\NEW\obj\x86\Debug\NEW.Form5.resources
+c:\users\admin\documents\visual studio 2010\Projects\NEW\NEW\obj\x86\Debug\NEW.Form6.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\NEW\NEW\obj\x86\Debug\NEW.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\NEW\NEW\bin\Debug\Member.mdf
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\NEW\NEW\bin\Debug\Member_log.ldf
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\NEW\NEW\obj\x86\Debug\NEW.Form7.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\NEW\NEW\obj\x86\Debug\NEW.Form8.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\NEW\NEW\obj\x86\Debug\NEW.Form9.resources
+I:\NEW\NEW\obj\x86\Debug\NEW.exe
+I:\NEW\NEW\obj\x86\Debug\NEW.pdb
+I:\NEW\NEW\bin\Debug\Main.mdf
+I:\NEW\NEW\bin\Debug\Main_log.ldf
+I:\NEW\NEW\bin\Debug\Member.mdf
+I:\NEW\NEW\bin\Debug\Member_log.ldf
+I:\NEW\NEW\bin\Debug\NEW.exe
+I:\NEW\NEW\bin\Debug\NEW.pdb
+I:\NEW\NEW\obj\x86\Debug\NEW.csprojResolveAssemblyReference.cache
+I:\NEW\NEW\obj\x86\Debug\NEW.Form1.resources
+I:\NEW\NEW\obj\x86\Debug\NEW.mainmenu.resources
+I:\NEW\NEW\obj\x86\Debug\NEW.Form5.resources
+I:\NEW\NEW\obj\x86\Debug\NEW.Properties.Resources.resources
+I:\NEW\NEW\obj\x86\Debug\NEW.csproj.GenerateResource.Cache
+I:\NEW\NEW\obj\x86\Debug\NEW.memedit.resources
+K:\NEW\NEW\obj\x86\Debug\NEW.exe
+K:\NEW\NEW\obj\x86\Debug\NEW.pdb
+K:\NEW\NEW\bin\Debug\Main.mdf
+K:\NEW\NEW\bin\Debug\Main_log.ldf
+K:\NEW\NEW\bin\Debug\NEW.exe
+K:\NEW\NEW\bin\Debug\NEW.pdb
+K:\NEW\NEW\obj\x86\Debug\NEW.csprojResolveAssemblyReference.cache
+K:\NEW\NEW\obj\x86\Debug\NEW.mainmenu.resources
+K:\NEW\NEW\obj\x86\Debug\NEW.memedit.resources
+K:\NEW\NEW\obj\x86\Debug\NEW.Properties.Resources.resources
+K:\NEW\NEW\obj\x86\Debug\NEW.csproj.GenerateResource.Cache
+K:\NEW\NEW\obj\x86\Debug\NEW.proadd.resources
+K:\NEW\NEW\obj\x86\Debug\NEW.prosrc.resources
+K:\NEW\NEW\obj\x86\Debug\NEW.memadd.resources
+K:\NEW\NEW\obj\x86\Debug\NEW.memsrc.resources
+K:\NEW\NEW\obj\x86\Debug\NEW.income.resources
+K:\NEW\NEW\obj\x86\Debug\NEW.prodel.resources
+K:\NEW\NEW\obj\x86\Debug\NEW.proedit.resources
+K:\NEW\NEW\obj\x86\Debug\NEW.memdel.resources
+K:\NEW\NEW\obj\x86\Debug\NEW.project.resources
+K:\NEW\NEW\obj\x86\Debug\NEW.member.resources
+K:\NEW\NEW\obj\x86\Debug\NEW.log.resources
+K:\NEW\NEW\bin\Debug\NEW.exe.config
+K:\NEW\NEW\obj\x86\Debug\NEW.settings.resources
+K:\NEW\NEW\obj\x86\Debug\NEW.prolog.resources
+K:\NEW\NEW\obj\x86\Debug\NEW.memlog.resources
+K:\NEW\NEW\obj\x86\Debug\NEW.chngepwd.resources
+I:\NEW\NEW\bin\Debug\NEW.exe.config
+I:\NEW\NEW\bin\Debug\log.mdf
+I:\NEW\NEW\bin\Debug\log_log.ldf
+I:\NEW\NEW\obj\x86\Debug\NEW.proadd.resources
+I:\NEW\NEW\obj\x86\Debug\NEW.prosrc.resources
+I:\NEW\NEW\obj\x86\Debug\NEW.memadd.resources
+I:\NEW\NEW\obj\x86\Debug\NEW.memsrc.resources
+I:\NEW\NEW\obj\x86\Debug\NEW.income.resources
+I:\NEW\NEW\obj\x86\Debug\NEW.prodel.resources
+I:\NEW\NEW\obj\x86\Debug\NEW.proedit.resources
+I:\NEW\NEW\obj\x86\Debug\NEW.settings.resources
+I:\NEW\NEW\obj\x86\Debug\NEW.project.resources
+I:\NEW\NEW\obj\x86\Debug\NEW.member.resources
+I:\NEW\NEW\obj\x86\Debug\NEW.log.resources
+I:\NEW\NEW\obj\x86\Debug\NEW.memdel.resources
+I:\NEW\NEW\obj\x86\Debug\NEW.prolog.resources
+I:\NEW\NEW\obj\x86\Debug\NEW.memlog.resources
+I:\NEW\NEW\obj\x86\Debug\NEW.Form3.resources
+I:\NEW\NEW\obj\x86\Debug\NEW.chngepwd.resources
+I:\NEW\NEW\obj\x86\Debug\NEW.login.resources
+I:\NEW\NEW\obj\x86\Debug\NEW.set.resources
+I:\NEW\NEW\obj\x86\Debug\NEW.type.resources
+H:\NEW\NEW\bin\Debug\NEW.exe.config
+H:\NEW\NEW\obj\x86\Debug\NEW.exe
+H:\NEW\NEW\obj\x86\Debug\NEW.pdb
+H:\NEW\NEW\bin\Debug\log.mdf
+H:\NEW\NEW\bin\Debug\log_log.ldf
+H:\NEW\NEW\bin\Debug\Main.mdf
+H:\NEW\NEW\bin\Debug\Main_log.ldf
+H:\NEW\NEW\bin\Debug\Member.mdf
+H:\NEW\NEW\bin\Debug\Member_log.ldf
+H:\NEW\NEW\bin\Debug\NEW.exe
+H:\NEW\NEW\bin\Debug\NEW.pdb
+H:\NEW\NEW\obj\x86\Debug\NEW.csprojResolveAssemblyReference.cache
+H:\NEW\NEW\obj\x86\Debug\NEW.proadd.resources
+H:\NEW\NEW\obj\x86\Debug\NEW.login.resources
+H:\NEW\NEW\obj\x86\Debug\NEW.mainmenu.resources
+H:\NEW\NEW\obj\x86\Debug\NEW.prosrc.resources
+H:\NEW\NEW\obj\x86\Debug\NEW.memadd.resources
+H:\NEW\NEW\obj\x86\Debug\NEW.memsrc.resources
+H:\NEW\NEW\obj\x86\Debug\NEW.income.resources
+H:\NEW\NEW\obj\x86\Debug\NEW.prodel.resources
+H:\NEW\NEW\obj\x86\Debug\NEW.proedit.resources
+H:\NEW\NEW\obj\x86\Debug\NEW.settings.resources
+H:\NEW\NEW\obj\x86\Debug\NEW.project.resources
+H:\NEW\NEW\obj\x86\Debug\NEW.member.resources
+H:\NEW\NEW\obj\x86\Debug\NEW.log.resources
+H:\NEW\NEW\obj\x86\Debug\NEW.memdel.resources
+H:\NEW\NEW\obj\x86\Debug\NEW.memedit.resources
+H:\NEW\NEW\obj\x86\Debug\NEW.prolog.resources
+H:\NEW\NEW\obj\x86\Debug\NEW.memlog.resources
+H:\NEW\NEW\obj\x86\Debug\NEW.Form1.resources
+H:\NEW\NEW\obj\x86\Debug\NEW.set.resources
+H:\NEW\NEW\obj\x86\Debug\NEW.Form3.resources
+H:\NEW\NEW\obj\x86\Debug\NEW.chngepwd.resources
+H:\NEW\NEW\obj\x86\Debug\NEW.Form5.resources
+H:\NEW\NEW\obj\x86\Debug\NEW.type.resources
+H:\NEW\NEW\obj\x86\Debug\NEW.Properties.Resources.resources
+H:\NEW\NEW\obj\x86\Debug\NEW.csproj.GenerateResource.Cache
+K:\NEW\NEW\obj\x86\Debug\NEW.login.resources
+K:\NEW\NEW\obj\x86\Debug\NEW.set.resources
+K:\NEW\NEW\obj\x86\Debug\NEW.type.resources
+K:\NEW\NEW\obj\x86\Debug\NEW.Form1.resources
+K:\Studio Management System\NEW\bin\Debug\NEW.exe.config
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.exe
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.pdb
+K:\Studio Management System\NEW\bin\Debug\Main.mdf
+K:\Studio Management System\NEW\bin\Debug\Main_log.ldf
+K:\Studio Management System\NEW\bin\Debug\NEW.exe
+K:\Studio Management System\NEW\bin\Debug\NEW.pdb
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.csprojResolveAssemblyReference.cache
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.proadd.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.login.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.mainmenu.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.prosrc.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.memadd.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.memsrc.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.income.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.prodel.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.proedit.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.settings.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.project.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.member.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.log.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.memdel.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.memedit.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.prolog.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.memlog.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.Form1.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.chngepwd.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.set.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.type.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.Properties.Resources.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.csproj.GenerateResource.Cache

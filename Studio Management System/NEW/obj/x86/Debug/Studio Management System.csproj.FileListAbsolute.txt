@@ -1,0 +1,37 @@
+K:\Studio Management System\NEW\bin\Debug\Main.mdf
+K:\Studio Management System\NEW\bin\Debug\Main_log.ldf
+K:\Studio Management System\NEW\bin\Debug\NEW.exe.config
+K:\Studio Management System\NEW\bin\Debug\NEW.exe.manifest
+K:\Studio Management System\NEW\bin\Debug\NEW.application
+K:\Studio Management System\NEW\bin\Debug\NEW.exe
+K:\Studio Management System\NEW\bin\Debug\NEW.pdb
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.proadd.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.login.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.mainmenu.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.prosrc.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.memadd.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.memsrc.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.income.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.prodel.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.proedit.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.settings.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.project.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.member.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.log.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.memdel.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.memedit.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.prolog.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.memlog.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.Form1.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.chngepwd.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.set.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.type.resources
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.Properties.Resources.resources
+K:\Studio Management System\NEW\obj\x86\Debug\Studio Management System.csproj.GenerateResource.Cache
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.exe.manifest
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.application
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.exe
+K:\Studio Management System\NEW\obj\x86\Debug\NEW.pdb
+H:\MENU\Store Box\old pen\Studio Management System\NEW\bin\Debug\NEW.exe.config
+H:\MENU\Store Box\old pen\Studio Management System\NEW\obj\x86\Debug\NEW.exe
+H:\MENU\Store Box\old pen\Studio Management System\NEW\obj\x86\Debug\NEW.pdb
